@@ -1,0 +1,8 @@
+{
+  "name": "sample-angular-ionic-cordova",
+  "integrations": {
+    "capacitor": {},
+    "cordova": {}
+  },
+  "type": "angular-standalone"
+}
